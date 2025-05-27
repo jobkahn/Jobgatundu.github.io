@@ -6,4 +6,5 @@ Summer is the best season of the year.
 #"About Me"
 ## I love to travel and I also have an interest in new medical technology.
 ## The websites I recommend for more information are,
-[Interests](href="https://www.worldtravelguide.net,https://medicalfuturist.com/10-potential-technological-advances-in-the-future-of-medicine/).
+[Travel](https://www.worldtravelguide.net/)
+[Technilogy](https://medicalfuturist.com/10-potential-technological-advances-in-the-future-of-medicine/).
